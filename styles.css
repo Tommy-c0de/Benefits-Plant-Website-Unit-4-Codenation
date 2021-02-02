@@ -1,0 +1,58 @@
+body {
+    font-family: "Fredoka One";
+}
+
+.header {
+    background-color: #6cf5ac;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.button {
+    justify-content: space-evenly;
+    color: #000000;
+    padding: 16px;
+    background-color: #abc;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.row {
+    padding: 10px;
+    height: 450px;
+    text-align: center;
+}
+
+.stress {
+    border: cyan solid;
+    height: 300px;
+}
+
+.anxiety {
+    border: yellow solid;
+    height: 300px;
+
+}
+
+.creativity {
+    border: pink solid;
+    height: 300px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.one {
+    background-color: pink;
+}
+
+.two {
+    background-color: #a5d19b;
+}
+
+.three {
+    background-color: #bbb;
+}
